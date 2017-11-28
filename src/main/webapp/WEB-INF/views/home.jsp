@@ -14,5 +14,6 @@
 <P>  The time on the server is ${serverTime}. </P>
 <a href="./notice/noticeList?name=notice">Go Notice</a>
 <a href="./qna/qnaList">Go QnA</a>
+<h3>github</h3>
 </body>
 </html>
